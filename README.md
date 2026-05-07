@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Analysis
+# ☕ Coffee-Shop-Sales-Analysis
 
 An interactive analytical solution that transforms **raw transaction data** into actionable insights to optimize **operational decisions** and understand customer behavior.
 ## 🖼️ Visual Preview:
